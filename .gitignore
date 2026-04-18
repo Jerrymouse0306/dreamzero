@@ -181,7 +181,7 @@ groot/rl/data/
 .DS_Store
 sim_dependencies/
 .venv/*
-
+sim-evals/
 
 # Mujoco
 MUJOCO_LOG.TXT
